@@ -35,7 +35,7 @@ To reproduce this NLP pipeline in your local environment:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/TU_USUARIO/Uber-NLP-Sentiment-Analysis.git](https://github.com/TU_USUARIO/Uber-NLP-Sentiment-Analysis.git)
+git clone [https://github.com/luismartinezv/Uber-NLP-Sentiment-Analysis.git](https://github.com/luismartinezv/Uber-NLP-Sentiment-Analysis.git)
 
 # Navigate into the directory
 cd Uber-NLP-Sentiment-Analysis
